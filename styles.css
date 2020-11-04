@@ -6,3 +6,13 @@ body {
 #intro {
   text-align: center;
 }
+
+.slogan-image {
+  margin-top: 50px;
+}
+
+.location-text {
+  color: #d0b461;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
