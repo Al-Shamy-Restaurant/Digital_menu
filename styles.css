@@ -13,7 +13,7 @@ body {
 
 .location-text {
   color: #d0b461;
-  font-size: 3rem;
+  font-size: 2rem;
   margin-top: 20px;
   margin-bottom: 10px;
 }
@@ -21,7 +21,7 @@ body {
 .location-district {
   margin-top: 0;
   color: #d0b461;
-  font-size: 3rem;
+  font-size: 2rem;
   display:inline-block;
     /*-webkit-transform:scale(2,1);*/
   transform: scaleX(2);
@@ -33,5 +33,5 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   color: #d0b461;
-  font-size: 3rem;
+  font-size: 2rem;
 }
