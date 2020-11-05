@@ -35,3 +35,38 @@ body {
   color: #d0b461;
   font-size: 2rem;
 }
+
+
+/* APPETIZERS SECTION */
+#appetizers {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.row-menu {
+  font-family: 'Almarai', sans-serif;
+}
+
+.col-price {
+  color: #fff;
+}
+
+.col-description {
+  text-align: right;
+  color: #fff;
+}
+
+.menu-heading {
+  margin-bottom: 20px;
+}
+
+.menu-item {
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+}
+
+/* TAWAGEN SECTION */
+#tawagen {
+  text-align: center;
+  color: #fff;
+}
