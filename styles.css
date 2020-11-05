@@ -17,3 +17,12 @@ body {
   margin-top: 20px;
   transform: scaleX(2);
 }
+
+.location-district {
+  margin-top: 0;
+  color: #d0b461;
+  font-size: 1.2rem;
+  display:inline-block;
+    -webkit-transform:scale(2,1); /* Safari and Chrome */
+  font-family: 'Markazi Text', serif;
+}
