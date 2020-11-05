@@ -87,3 +87,17 @@ body {
   margin-bottom: 100px;
 }
 
+/* PIZZA SECTION */
+#pizza {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 100px;
+}
+
+.pizza-item {
+  margin-bottom: 5px;
+}
+
+.pizza-price {
+  margin-bottom: 45px;
+}
