@@ -15,4 +15,5 @@ body {
   color: #d0b461;
   font-size: 1.2rem;
   margin-top: 20px;
+  transform: scaleX(2);
 }
