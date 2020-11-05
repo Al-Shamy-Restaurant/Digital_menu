@@ -114,6 +114,17 @@ body {
   margin-bottom: 100px;
 }
 
+.manakeesh-image {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  transform: translate(-190%, 30%);
+}
+
+.col-manakeesh-price {
+  text-align: right;
+}
+
 /* DRINKS SECTION */
 #drinks {
   text-align: center;
