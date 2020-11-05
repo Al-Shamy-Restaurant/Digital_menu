@@ -28,3 +28,10 @@ body {
   transform-origin: 50% 0;
   font-family: 'Markazi Text', serif;
 }
+
+.location-numbers {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #d0b461;
+  font-size: 1.2rem;
+}
