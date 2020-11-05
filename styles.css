@@ -23,6 +23,8 @@ body {
   color: #d0b461;
   font-size: 1.2rem;
   display:inline-block;
-    -webkit-transform:scale(2,1); /* Safari and Chrome */
+    /*-webkit-transform:scale(2,1);*/
+  transform: scaleX(2);
+  transform-origin: 50% 0;
   font-family: 'Markazi Text', serif;
 }
