@@ -79,9 +79,9 @@ body {
 
 .appetizer-image {
   position: absolute;
-  width: 600px;
-  height: 600px;
-  transform: translate(-150px, 250px);
+  width: 400px;
+  height: 400px;
+  transform: translate(-40%, 80%);
 }
 
 .row-menu {
