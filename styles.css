@@ -77,14 +77,17 @@ body {
   margin-bottom: 50px;
 }
 
+.appetizer-image {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  transform: translate(-150px, 250px);
+}
+
 .row-menu {
   font-family: 'Almarai', sans-serif;
-}
-
-.col-price {
   color: #fff;
 }
-
 .col-description {
   text-align: right;
   color: #fff;
