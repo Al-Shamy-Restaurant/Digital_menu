@@ -149,3 +149,21 @@ body {
 .pizza-price {
   margin-bottom: 45px;
 }
+
+/* FOOTER SECTION */
+#footer {
+  text-align: center;
+  padding-bottom: 50px;
+  background-color: #A9AFB5;
+}
+
+.font-awesome {
+  margin-top: 50px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+}
+
+.font-awesome:hover {
+  cursor: pointer;
+}
