@@ -77,12 +77,6 @@ body {
   margin-bottom: 50px;
 }
 
-.appetizer-image {
-  width: 400px;
-  height: 400px;
-  transform: translate(0, 30%);
-}
-
 .row-menu {
   font-family: 'Almarai', sans-serif;
   color: #fff;
